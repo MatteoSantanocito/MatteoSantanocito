@@ -19,7 +19,7 @@
                 <li>⚡ Current Stack: <b>Kubernetes, Go, Python</b></li>
             </ul>
             <br/>
-            <a href="https://linkedin.com/in/Matteo-Santanocito">
+            <a href="https://www.linkedin.com/in/matteo-santanocito-9a598b15b/">
                 <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
             </a>
         </td>
