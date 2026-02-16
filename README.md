@@ -11,7 +11,7 @@
     <tr>
         <td valign="center" width="60%">
             <h2>🚀 About Me</h2>
-            <p>I combine <b>Systems Engineering</b> with <b>Design Principles</b> to build robust Algoritm for infrastructures.</p>
+            <p>I combine <b>Systems Engineering</b> with <b>Design Principles</b> to build robust Algorithm for infrastructures.</p>
             <ul>
                 <li>🎓 Studying at <b>Univeristy of Catania</b></li>
                 <li>☁️ Specializing in <b>Multi-cluster Scheduling</b> & <b>Auto-scaling</b></li>
